@@ -1,4 +1,6 @@
 Marketing Dashboard Campaign - Week 1  
+![SUPER](https://github.com/user-attachments/assets/e89730eb-dac5-47a2-ad6b-fbcff7b7ae59)
+
 
 Project Overview  
 This project is part of a virtual internship training hosted by **Meriskill**, focused on analyzing marketing campaign performance. The primary objective was to develop a **Power BI dashboard** that provides actionable insights into key campaign metrics and supports data-driven decision-making.  
@@ -49,6 +51,9 @@ The dashboard tracks the following metrics for the campaign:
   - Meta Ads:93%  
   - YouTube Campaign: 93%
   - Google Ads: 58% 
+
+![Power BI Desktop 12_8_2024 12_38_40 AM](https://github.com/user-attachments/assets/acf1ac99-0bbe-4bc7-b9ab-1ad5f24173a8)
+
 
  Recommendations  
 
@@ -130,8 +135,9 @@ Recommendations at a Glance
 > Access Full Dashboard on GitHub. https://github.com/MASTERDHARYOR/Marketing-Campaign-Dashboard
 
 
-![SUPER](https://github.com/user-attachments/assets/e89730eb-dac5-47a2-ad6b-fbcff7b7ae59)
-![Power BI Desktop 12_8_2024 12_38_40 AM](https://github.com/user-attachments/assets/acf1ac99-0bbe-4bc7-b9ab-1ad5f24173a8)
+
+
+
 You can also have access to the datasets being used here 
 [Order_data.csv](https://github.com/user-attachments/files/18050295/Order_data.csv)
 [Data Analytics Week 1 - 2.pdf](https://github.com/user-attachments/files/18050294/Data.Analytics.Week.1.-.2.pdf)
